@@ -8,7 +8,7 @@
     {squarespace-headers}
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
-<p>Googbye, World!</p>
+<p>Hello and Goodbye, World!</p>
     <div class="site-container">
 
       <header class="site-header">
